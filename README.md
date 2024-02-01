@@ -1,5 +1,5 @@
 # Human Protein Image Classification with Pytorch
-Competition Notebook for [Human Protein Atlas Competition]([https://www.kaggle.com/competitions/jovian-pytorch-z2g/overview](https://www.kaggle.com/c/human-protein-atlas-image-classification))
+[Human Protein Atlas Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification)
 
 Images visualizing proteins in cells are commonly used for biomedical research, and these cells could hold the key for the next breakthrough in medicine. However, thanks to advances in high-throughput microscopy, these images are generated at a far greater pace than what can be manually evaluated. Therefore, the need is greater than ever for automating biomedical image analysis to accelerate the understanding of human cells and disease.
 
